@@ -1,0 +1,12 @@
+html {
+    margin: 15px;
+}
+
+span {
+    text-decoration: underline;
+}
+
+footer {
+   position: fixed;
+   bottom: 0;
+}
